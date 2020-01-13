@@ -1,4 +1,4 @@
-The Big Score: Destroy a statue
+The Big Score: Bomb a meeting of financiers
 ---------------------------------------------------------------
 Strategy:
 - if 9 or less CP short of target:
