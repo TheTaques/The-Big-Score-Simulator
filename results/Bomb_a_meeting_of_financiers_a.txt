@@ -1,0 +1,17 @@
+The Big Score: Destroy a statue
+---------------------------------------------------------------
+Strategy:
+- if 9 or less CP short of target:
+	- The decoy
+- else: Set your gang of hoodlums to business
+
+Average Actions per Success for Casing 9: 16.136909
+Average Actions per Success for Casing 10: 20.33213
+Average Actions per Success for Casing 11: 22.339551
+Average Actions per Success for Casing 12: 25.385449
+Average Actions per Success for Casing 13: 29.502445
+Average Actions per Success for Casing 14: 30.8778185
+Average Actions per Success for Casing 15: 35.3889165
+Average Actions per Success for Casing 16: 40.0
+
+runs = 1000000
