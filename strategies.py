@@ -11,12 +11,12 @@ def heist_optimal_high_level(casing_needed, challenge_level, suspicion_gain, cas
             actions += .25 * suspicion_gain
             return heist_optimal_high_level(casing_needed, challenge_level, suspicion_gain, casing_loss, casing, actions)
     elif casing >= casing_needed - 9:
-		# The decoy
+        # The decoy
         actions += 3
         casing += 9
         return heist_optimal_high_level(casing_needed, challenge_level, suspicion_gain, casing_loss, casing, actions)
     else:
-		# Set your gang of hoodlums to business
+        # Set your gang of hoodlums to business
         actions += 5
         casing += 18
         return heist_optimal_high_level(casing_needed, challenge_level, suspicion_gain, casing_loss, casing, actions)
@@ -32,7 +32,7 @@ def heist_suboptimal_high_level(casing_needed, challenge_level, suspicion_gain, 
             actions += .25 * suspicion_gain
             return heist_suboptimal_high_level(casing_needed, challenge_level, suspicion_gain, casing_loss, casing, actions)
     else:
-		# Set your gang of hoodlums to business
+        # Set your gang of hoodlums to business
         actions += 5
         casing += 18
         return heist_suboptimal_high_level(casing_needed, challenge_level, suspicion_gain, casing_loss, casing, actions)
