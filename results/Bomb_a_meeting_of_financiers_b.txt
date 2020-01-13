@@ -1,6 +1,6 @@
 The Big Score: Bomb a meeting of financiers
 ---------------------------------------------------------------
-Strategy:
+Strategy (heist_suboptimal_high_level):
 - Set your gang of hoodlums to business
 
 Average Actions per Success for Casing 9: 17.7186175

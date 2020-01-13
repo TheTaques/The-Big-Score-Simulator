@@ -1,6 +1,6 @@
 The Big Score: Bomb a meeting of financiers
 ---------------------------------------------------------------
-Strategy:
+Strategy (heist_optimal_high_level):
 - if 9 or less CP short of target:
 	- The decoy
 - else: Set your gang of hoodlums to business

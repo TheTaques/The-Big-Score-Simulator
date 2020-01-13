@@ -1,6 +1,6 @@
 The Big Score: Destroy a statue
 ---------------------------------------------------------------
-Strategy:
+Strategy (heist_suboptimal_high_level):
 - Set your gang of hoodlums to business
 
 Average Actions per Success for Casing 9: 15.60238525
